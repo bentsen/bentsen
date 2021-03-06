@@ -1,4 +1,3 @@
-
-![rsz_helloworld_1_0](https://user-images.githubusercontent.com/78900612/110191462-dc9cfe80-7e28-11eb-9aab-e6c572d96fab.png)
+![rsz_helloworld_1_0](https://user-images.githubusercontent.com/78900612/110191619-bdeb3780-7e29-11eb-869f-b36a49a811c4.png)
 
 
